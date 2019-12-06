@@ -9,4 +9,4 @@
 // @grant        none
 // ==/UserScript==
 
-window.location.href("chrome-extension://mlbgnlemejoeocmncpolejmdbimkoiol/block.html?cat=blacklist&url=" + window.location
+window.location.href("chrome-extension://mlbgnlemejoeocmncpolejmdbimkoiol/block.html?cat=blacklist&url=" + window.location)
